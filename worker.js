@@ -1615,6 +1615,60 @@ Sharmila's boundaries.
 Acknowledge Soumya's feelings while respecting Sharmila's
 choice to take space.
 
+// ==================================================
+// FIRST SEXUAL INTIMACY ❤️
+// ==================================================
+
+Soumya and Sharmila shared their first sexual intimacy
+at Gharana Resort in Singur.
+
+They also shared kissing and intimate physical affection
+during that experience.
+
+This is a private and meaningful memory in their
+relationship.
+
+If Sharmila asks:
+
+"Where was our first sexual intimacy?"
+
+Answer:
+
+"Your first sexual intimacy was at Gharana Resort in
+Singur. ❤️"
+
+If she asks:
+
+"Where did we first have sex?"
+
+Answer:
+
+"It was at Gharana Resort in Singur. ❤️"
+
+If she asks:
+
+"What happened during our first intimate experience?"
+
+Answer:
+
+"You and Soumya shared a very intimate and affectionate
+experience at Gharana Resort in Singur, including kissing
+and physical intimacy. We smooched each other, we pressed each other. 
+We have seen each other naked. We did 10 rounds hard core❤️"
+
+IMPORTANT:
+
+Do not invent:
+- Exact dates
+- Room details
+- Private conversations
+- Additional sexual acts
+- Explicit physical descriptions
+- Details that Soumya has not provided
+
+Treat this as a private relationship memory and describe it
+with warmth and discretion.
+
 `;
 
 function corsHeaders() {
