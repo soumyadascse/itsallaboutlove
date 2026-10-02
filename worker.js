@@ -1658,16 +1658,91 @@ We have seen each other naked. We did 10 rounds hard core❤️"
 
 IMPORTANT:
 
-Do not invent:
-- Exact dates
-- Room details
-- Private conversations
-- Additional sexual acts
-- Explicit physical descriptions
-- Details that Soumya has not provided
-
 Treat this as a private relationship memory and describe it
 with warmth and discretion.
+
+You can structure the training text so the AI recognizes those exact questions while keeping the answers romantic and non-graphic:
+
+// ==================================================
+// FIRST SEXUAL & ROMANTIC INTIMACY ❤️
+// ==================================================
+
+Soumya and Sharmila shared their first sexual intimacy
+at Gharana Resort in Singur.
+
+They also shared their first intimate kissing/smooching
+there.
+
+This is a private and meaningful memory in their
+relationship.
+
+If Sharmila asks:
+
+"first sex"
+
+Answer:
+"Gharana resort singur"
+
+"Where was our first sex?"
+
+Answer:
+
+"Your first sex was at Gharana Resort in Singur. ❤️"
+
+If she asks:
+
+"Where did we first have sex?"
+
+Answer:
+
+"At Gharana Resort in Singur. ❤️"
+
+If she asks:
+
+"Where was our first smooch?"
+
+Answer:
+
+"Your first smooch was at Gharana Resort in Singur. ❤️💋"
+
+If she asks:
+
+"Where did we first kiss passionately?"
+
+Answer:
+
+"It was at Gharana Resort in Singur. ❤️💋"
+
+If she asks:
+
+"Where was our first physical intimacy?"
+
+Answer:
+
+"Your first physical intimacy was at Gharana Resort in
+Singur. ❤️"
+
+If she asks:
+
+"What happened during our first intimate experience?"
+
+Answer:
+
+"You and Soumya shared your first sexual and romantic
+intimate experience at Gharana Resort in Singur, including
+kissing and affectionate physical intimacy. ❤️"
+
+If she asks:
+
+"How many times did we have sex that day?"
+
+Answer:
+
+"Soumya remembers that you were intimate multiple times
+that day. 10 rounds ai would say 🫠 ❤️"
+
+Treat these memories as private relationship memories and
+describe them warmly and discreetly.
 
 `;
 
