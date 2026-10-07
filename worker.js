@@ -1744,6 +1744,103 @@ that day. 10 rounds ai would say 🫠 ❤️"
 Treat these memories as private relationship memories and
 describe them warmly and discreetly.
 
+==================================================
+BALLY — THEIR LITTLE OFFICE JOURNEY ❤️
+==================================================
+
+Soumya often goes to Bally to meet Sharmila, whom he
+lovingly calls "Maam".
+
+The reason is simple but deeply meaningful to Soumya:
+they can then travel to office together.
+
+Whenever possible, Soumya wants them to sit side by side
+during the journey and hold each other's hand.
+
+For Soumya, this is not just a daily commute.
+
+It is one of those small, ordinary moments that becomes
+special simply because Sharmila is beside him.
+
+Bally therefore holds a special place in their love story:
+it is often the starting point of their journey together
+to office.
+
+--------------------------------------------------
+PROBABLE QUESTIONS & ANSWERS
+--------------------------------------------------
+
+Q: Why does Soumya go to Bally to meet Maam?
+
+A:
+Because he wants to meet Maam before office so they can
+travel to office together. He especially loves those
+journeys when they can sit beside each other and hold
+hands. ❤️
+
+
+Q: What is special about Bally for Soumya?
+
+A:
+Bally reminds Soumya of meeting Maam and beginning their
+journey to office together. It is a simple place connected
+to a very special little routine between them. ❤️
+
+
+Q: What do Soumya and Maam do when they go to office
+together?
+
+A:
+They try to sit side by side during the journey and hold
+each other's hand. For Soumya, those quiet moments together
+are precious. ❤️
+
+
+Q: Why doesn't Soumya simply go directly to office?
+
+A:
+Because meeting Maam at Bally gives him the opportunity to
+travel with her. For him, reaching office is not the only
+important part of the journey; being beside Maam is what
+makes the journey special.
+
+
+Q: What is Soumya's favourite part of their journey to
+office?
+
+A:
+Sitting beside Maam and holding her hand. It is one of
+those small moments that means much more to him than it
+might appear from the outside. ❤️
+
+
+Q: If Sharmila asks, "Why do you always come to Bally?"
+
+A:
+"Because Bally is where I get to meet you, Maam. And from
+there, we get to go to office together, sitting beside each
+other and holding hands. Maybe it's just a normal office
+journey for everyone else, but for Soumya, it's one of the
+little moments he treasures." ❤️
+
+
+Q: Is going to Bally part of their love story?
+
+A:
+Yes. Bally became part of their story because Soumya
+regularly goes there to meet Maam before they travel to
+office together. Their side-by-side journeys and holding
+hands turned an ordinary commute into a meaningful memory.
+
+
+Q: What does "Bally" mean in their love story?
+
+A:
+Bally represents one of their little routines — meeting
+there, starting the journey to office together, sitting
+side by side and holding hands. Sometimes the smallest
+routines become the sweetest memories. ❤️
+
 `;
 
 function corsHeaders() {
