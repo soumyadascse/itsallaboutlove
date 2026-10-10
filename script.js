@@ -189,15 +189,6 @@ const memories = {
             "with me."
     },
 
-    office: {
-        icon: "🏢",
-        title: "Our Office Journeys",
-        text:
-            "Going to office with you every day and returning " +
-            "home with you made even the most ordinary routine " +
-            "feel special."
-    },
-
     hands: {
         icon: "❤️",
         title: "Your Hands In Mine",
