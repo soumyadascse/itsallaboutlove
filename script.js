@@ -149,7 +149,7 @@ function checkSecret(answer) {
     } else {
 
         result.innerHTML =
-            "Hmm... try again, Sharmila 😏❤️";
+            "Hmm... try again, Koyel 😏❤️";
 
         result.className = "wrong-answer";
 
@@ -289,9 +289,9 @@ function chooseMissing(answer) {
     if (answer === "soumya") {
 
         result.innerHTML =
-            "Correct! ❤️ Soumya misses Sharmila every second.";
+            "Correct! ❤️ Soumya misses Koyel every second.";
 
-    } else if (answer === "sharmila") {
+    } else if (answer === "Koyel") {
 
         result.innerHTML =
             "Nice try 😏 But Soumya says he misses you more! ❤️";
@@ -344,7 +344,7 @@ function completeSentence(answer) {
     } else {
 
         result.innerHTML =
-            "Wrong answer 😏 Try again, Sharmila ❤️";
+            "Wrong answer 😏 Try again, Koyel ❤️";
 
     }
 }
@@ -354,7 +354,7 @@ function completeSentence(answer) {
 ========================================= */
 
 const AI_WORKER_URL =
-    "https://itsallaboutmaam.soumyadas-cse.workers.dev";
+    "https://itsallaboutlove.soumyadas-cse.workers.dev";
 
 
 const chatMessages =
