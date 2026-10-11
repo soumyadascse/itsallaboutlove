@@ -1,0 +1,322 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Our Video Gallery ❤️ | For Koyel</title>
+  <meta
+    name="description"
+    content="A little collection of songs, memories, and moments made with love for Koyel."
+  >
+
+  <!-- Your existing shared stylesheet -->
+  <link rel="stylesheet" href="style.css">
+
+  <!-- Gallery-specific stylesheet -->
+  <link rel="stylesheet" href="gallery.css">
+
+  <!-- Bootstrap Icons -->
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css"
+  >
+</head>
+
+<body>
+
+  <!-- Navigation -->
+  <nav class="love-nav">
+    <div class="nav-brand">S <span>❤️</span> K</div>
+
+    <div class="nav-links">
+      <a href="index.html">Home</a>
+      <a href="games.html">Games 🎮</a>
+      <a href="numerology.html">Numbers 🔢</a>
+      <a href="secret.html">🔐</a>
+      <a href="ai.html">Love AI 🤖</a>
+      <a href="gallery.html" class="active">Videos 🎬</a>
+    </div>
+  </nav>
+
+  <main class="gallery-page">
+
+    <!-- Hero -->
+    <header class="gallery-hero">
+      <div class="gallery-heart" aria-hidden="true">♡</div>
+
+      <p class="gallery-eyebrow">A LITTLE WORLD OF OURS</p>
+
+      <h1>Our Video Gallery <span>❤️</span></h1>
+
+      <p class="gallery-subtitle">
+        Every song has a feeling, every memory has a story,
+        and some stories will always remind me of you.
+      </p>
+
+      <div class="gallery-divider">
+        <span>♥</span>
+      </div>
+
+      <p class="gallery-note">
+        Made with love, especially for Koyel.
+      </p>
+    </header>
+
+    <!-- Search and category filters -->
+    <section class="gallery-controls" aria-label="Video gallery controls">
+
+      <div class="gallery-search">
+        <i class="bi bi-search" aria-hidden="true"></i>
+
+        <input
+          type="search"
+          id="videoSearch"
+          placeholder="Search our video collection..."
+          aria-label="Search videos"
+        >
+      </div>
+
+      <div class="gallery-filters" role="group" aria-label="Filter videos">
+        <button class="filter-btn active" data-filter="all" type="button">
+          All videos
+        </button>
+
+        <button class="filter-btn" data-filter="music" type="button">
+          <i class="bi bi-music-note-beamed"></i> Music
+        </button>
+
+        <button class="filter-btn" data-filter="memories" type="button">
+          <i class="bi bi-camera-heart"></i> Memories
+        </button>
+
+        <button class="filter-btn" data-filter="special" type="button">
+          <i class="bi bi-heart"></i> Just for us
+        </button>
+      </div>
+    </section>
+
+    <!-- Video gallery -->
+    <section class="gallery-section" aria-label="Our videos">
+
+      <div class="gallery-section-heading">
+        <div>
+          <p class="gallery-eyebrow">PRESS PLAY & FEEL THE LOVE</p>
+          <h2>Little Moments, Big Feelings</h2>
+        </div>
+
+        <span class="video-count" id="videoCount">3 videos</span>
+      </div>
+
+      <div class="video-grid" id="videoGrid">
+
+        <!-- VIDEO 1 -->
+        <article
+          class="video-card"
+          data-category="music"
+          data-title="perfect romantic song"
+        >
+          <div class="gallery-video-frame">
+            <iframe
+              src="https://www.youtube-nocookie.com/embed/2Vv-BfVoq4g"
+              title="Perfect - romantic music video"
+              loading="lazy"
+              referrerpolicy="strict-origin-when-cross-origin"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen>
+            </iframe>
+          </div>
+
+          <div class="video-card-content">
+            <span class="video-category">
+              <i class="bi bi-music-note-beamed"></i> MUSIC
+            </span>
+
+            <h3>Perfect ❤️</h3>
+
+            <p>
+              A romantic song for those moments when words aren't enough.
+            </p>
+          </div>
+        </article>
+
+        <!-- VIDEO 2 -->
+        <article
+          class="video-card"
+          data-category="memories"
+          data-title="beautiful memories sample video"
+        >
+          <div class="gallery-video-frame">
+            <iframe
+              src="https://www.youtube-nocookie.com/embed/ScMzIvxBSi4"
+              title="Sample memories video"
+              loading="lazy"
+              referrerpolicy="strict-origin-when-cross-origin"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen>
+            </iframe>
+          </div>
+
+          <div class="video-card-content">
+            <span class="video-category">
+              <i class="bi bi-camera-heart"></i> MEMORIES
+            </span>
+
+            <h3>Beautiful Memories 🌸</h3>
+
+            <p>
+              A place for the moments we never want to forget.
+            </p>
+          </div>
+        </article>
+
+        <!-- VIDEO 3 -->
+        <article
+          class="video-card"
+          data-category="special"
+          data-title="special moments relaxing video"
+        >
+          <div class="gallery-video-frame">
+            <iframe
+              src="https://www.youtube-nocookie.com/embed/jfKfPfyJRdk"
+              title="Relaxing music live stream"
+              loading="lazy"
+              referrerpolicy="strict-origin-when-cross-origin"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen>
+            </iframe>
+          </div>
+
+          <div class="video-card-content">
+            <span class="video-category">
+              <i class="bi bi-heart"></i> JUST FOR US
+            </span>
+
+            <h3>A Little Peace of Love 💗</h3>
+
+            <p>
+              A little music, a little peace, and a thought of you.
+            </p>
+          </div>
+        </article>
+
+      </div>
+
+      <!-- Empty search result -->
+      <div class="gallery-empty" id="emptyMessage" hidden>
+        <span>💌</span>
+        <h3>No videos found</h3>
+        <p>Try another search or choose a different category.</p>
+        <button type="button" id="resetGallery" class="reset-btn">
+          Show all videos
+        </button>
+      </div>
+
+    </section>
+
+    <!-- Closing message -->
+    <section class="gallery-love-note">
+      <span class="love-note-heart">♥</span>
+
+      <h2>For You, Koyel</h2>
+
+      <p>
+        Some things are difficult to explain in words.
+        So here's a little collection of things that make me feel.
+      </p>
+
+      <p class="handwritten">With love, always. ❤️</p>
+    </section>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="gallery-footer">
+    Made with ❤️ by Soumya for Koyel
+  </footer>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      const searchInput = document.getElementById("videoSearch");
+      const filterButtons = document.querySelectorAll(".filter-btn");
+      const videoCards = document.querySelectorAll(".video-card");
+      const videoCount = document.getElementById("videoCount");
+      const emptyMessage = document.getElementById("emptyMessage");
+      const resetButton = document.getElementById("resetGallery");
+
+      let activeFilter = "all";
+
+      function filterVideos() {
+        const searchTerm = searchInput.value.trim().toLowerCase();
+        let visibleCount = 0;
+
+        videoCards.forEach((card) => {
+          const category = card.dataset.category || "";
+          const title = card.dataset.title || "";
+          const cardText = card.textContent.toLowerCase();
+
+          const matchesCategory =
+            activeFilter === "all" || category === activeFilter;
+
+          const matchesSearch =
+            title.includes(searchTerm) ||
+            cardText.includes(searchTerm);
+
+          const isVisible = matchesCategory && matchesSearch;
+
+          card.hidden = !isVisible;
+
+          if (isVisible) {
+            visibleCount++;
+          }
+        });
+
+        videoCount.textContent =
+          visibleCount + (visibleCount === 1 ? " video" : " videos");
+
+        emptyMessage.hidden = visibleCount !== 0;
+      }
+
+      filterButtons.forEach((button) => {
+        button.addEventListener("click", () => {
+          activeFilter = button.dataset.filter;
+
+          filterButtons.forEach((item) => {
+            const isActive = item === button;
+
+            item.classList.toggle("active", isActive);
+            item.setAttribute("aria-pressed", String(isActive));
+          });
+
+          filterVideos();
+        });
+
+        button.setAttribute(
+          "aria-pressed",
+          String(button.classList.contains("active"))
+        );
+      });
+
+      searchInput.addEventListener("input", filterVideos);
+
+      resetButton.addEventListener("click", () => {
+        searchInput.value = "";
+        activeFilter = "all";
+
+        filterButtons.forEach((button) => {
+          const isActive = button.dataset.filter === "all";
+
+          button.classList.toggle("active", isActive);
+          button.setAttribute("aria-pressed", String(isActive));
+        });
+
+        filterVideos();
+      });
+
+      filterVideos();
+    });
+  </script>
+
+</body>
+</html>
